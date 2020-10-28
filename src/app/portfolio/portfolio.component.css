@@ -1,0 +1,14 @@
+.portfolio {
+  padding: 70px 140px;
+}
+
+.chart-wrapper {
+  padding: 20px;
+  background-color: #fff;
+}
+
+.portfolio img {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}

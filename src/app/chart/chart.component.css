@@ -1,0 +1,6 @@
+.mychart {
+  width: 50%;
+  height: 400px;
+  display: block;
+  display: flex;
+}
